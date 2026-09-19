@@ -81,7 +81,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-white/50 text-xs text-center sm:text-left">
-            &copy; {year} Varad Mobiles. All rights reserved.
+            &copy; {year} Sanket Dadasaheb Bhojane. All rights reserved.
           </p>
           <p className="text-white/50 text-xs text-center">
             This is a demo website. Product availability and prices may vary.
